@@ -19,8 +19,6 @@
 
 <br/>
 
-![Demo Screenshot](frontend/public/website/031133023302%20hayat%20satellite.png)
-
 </div>
 
 ---
@@ -380,7 +378,7 @@ Dataset available on Roboflow Universe: *[link coming soon]*
 
 ## 👩‍💻 Author
 
-**Sara** — AI Engineer
+**Sara Resulaj** — AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com)
