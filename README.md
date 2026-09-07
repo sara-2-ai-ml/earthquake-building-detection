@@ -346,7 +346,7 @@ EARTHQUAKE-ML/
 
 The full training pipeline — data loading, augmentation, YOLOv11 training, K-Fold validation, metrics, and result visualization — is available on Google Colab:
 
-**[🚀 Open in Google Colab](https://colab.research.google.com/drive/1g0d1PlEll3ZSmcPJ5ecryHx2_RFm-tZM?authuser=1#scrollTo=bThLfHF6P1F0)**
+
 
 Includes:
 - 📊 Training curves (loss, mAP, Recall)
